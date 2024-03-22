@@ -18,5 +18,9 @@ html {
     padding: 3px;
   }
 
-
+  .resultParas {
+  background-color: yellow;
+  padding: 2rem 4rem;
+  margin-top: 3rem;
+  }
 
